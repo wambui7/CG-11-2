@@ -10,6 +10,10 @@ namespace student_average
 	{
 		static void Main(string[] args)
 		{
+
+			classlist classList = new classlist();
+
+			classList.Run();
 		}
 	}
 }
